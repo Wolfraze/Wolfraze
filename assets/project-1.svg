@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Project One">
+<defs><clipPath id="c"><rect x="1" y="1" width="1198" height="228" rx="14"/></clipPath></defs>
+<rect x="1" y="1" width="1198" height="228" rx="14" fill="#0d1527" stroke="#22304d"/>
+<g clip-path="url(#c)"><rect x="1" y="1" width="6" height="228" fill="#4c8dff"/></g>
+<text x="38" y="58" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" fill="#e6ecf7">Project One</text>
+<text x="1168" y="52" text-anchor="end" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#4c8dff">Featured</text>
+<text x="38" y="96" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#b6c4de">A short, specific description of what this does, who it is for and the result it achieved. Mention scale or numbers if you have</text><text x="38" y="123" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#b6c4de">them.</text>
+<circle cx="42" cy="199" r="4" fill="#4c8dff"/><text x="54" y="204" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b9bb8">Python</text><circle cx="125.6" cy="199" r="4" fill="#4c8dff"/><text x="137.6" y="204" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b9bb8">FastAPI</text><circle cx="216.79999999999998" cy="199" r="4" fill="#4c8dff"/><text x="228.79999999999998" y="204" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b9bb8">PostgreSQL</text>
+<text x="1168" y="204" text-anchor="end" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#4c8dff">View repository</text>
+</svg>

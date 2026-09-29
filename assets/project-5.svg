@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 216" width="590" height="216" role="img" aria-label="Project Five">
+<defs><clipPath id="c"><rect x="1" y="1" width="588" height="214" rx="14"/></clipPath></defs>
+<rect x="1" y="1" width="588" height="214" rx="14" fill="#0d1527" stroke="#22304d"/>
+<g clip-path="url(#c)"><rect x="1" y="1" width="6" height="214" fill="#fb7185"/></g>
+<text x="38" y="54" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#e6ecf7">Project Five</text>
+
+<text x="38" y="88" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b6c4de">What it does in one or two sentences, and the interesting</text><text x="38" y="113" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#b6c4de">technical problem you solved.</text>
+<circle cx="42" cy="185" r="4" fill="#fb7185"/><text x="54" y="190" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b9bb8">Python</text><circle cx="125.6" cy="185" r="4" fill="#fb7185"/><text x="137.6" y="190" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b9bb8">Docker</text>
+<text x="558" y="190" text-anchor="end" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#fb7185">View repository</text>
+</svg>
