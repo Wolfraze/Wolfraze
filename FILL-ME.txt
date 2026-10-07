@@ -1,0 +1,14 @@
+TVA GITHUB PROFILE: LAST STEPS
+==============================
+1. Create a PUBLIC repo named exactly like your GitHub username.
+2. Upload README.md and the assets/ folder to its root.
+3. Search-and-replace these (README.md AND the SVGs in assets/):
+   YOUR-USERNAME  -> your GitHub username
+   YOUR-ID / YOU@example.com -> your LinkedIn / Instagram / email
+   [Course / Role], [College/Company], [City, Country]
+   [YEAR]  -> year you started coding / first project / college
+   [Tech]  -> tech used in the Family Feud game
+   [One line about yourself], hobbies, last fun fact
+4. Optional: add more projects as Exhibit C.
+Already filled for you: Techopedia 15, Family Feud, tech stack, charges,
+bug report, mission, redacted facts.

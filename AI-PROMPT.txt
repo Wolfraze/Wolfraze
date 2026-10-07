@@ -1,0 +1,27 @@
+PASTE THIS INTO ANY AI TOGETHER WITH THE CONTENTS OF README.md
+==============================================================
+Personalize this Loki TVA-style GitHub profile README with my real details
+and return the finished file.
+
+MY DETAILS:
+- Name:
+- GitHub username:
+- Location:
+- Course/role and college/company:
+- Year I started coding / first line of code story:
+- Tech stack (primary / tools / learning):
+- Projects (name, one line, tech, repo link):
+- Currently building / looking for / ask me about:
+- Hobbies and 2-3 fun facts:
+- LinkedIn, email, Instagram:
+
+RULES:
+1. Keep structure, section order, colors (#D9772B, #5F7A3A, #3B2A1A) and the
+   TVA characters (Miss Minutes, Mobius, Renslayer, B-15, OB, Alioth,
+   He Who Remains).
+2. Replace every [bracket] and YOUR-USERNAME with my real info.
+3. Rewrite the Mobius answers in my voice. Write 7 charges specific to my work.
+4. Keep jokes sharp and Loki-like but recruiter-safe.
+5. Keep the animated SVG references (assets/*.svg) and badges working.
+6. Do not invent achievements or numbers. Leave a [PLACEHOLDER] if unknown.
+7. Output one markdown code block, then list placeholders still to fill.
